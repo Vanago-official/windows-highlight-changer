@@ -5,7 +5,7 @@ This script changes the text highlighting color on the desktop and in applicatio
 ## Requirements
 
 - Python >= 3.x
-- This script is only for Windows 10+.
+- This script is only for Windows 10+
 
 ## Installation
 
